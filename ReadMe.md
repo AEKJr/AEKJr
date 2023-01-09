@@ -1,5 +1,5 @@
 # :writing_hand: About Me:
-Desenvolvedor web Front-end e futuramente Fullstack.<br>Em busca da primeira oportunidade na área, estou migrando da Engenharia Mecânica para Desenvolvedor.<br>Já tenh um conhecimento intermediário nas linguagens de front web<br>e estudando sobre as demais para poder me tornar um fullstack.
+Desenvolvedor web Front-end e futuramente Fullstack.<br>Em busca da primeira oportunidade na área, estou migrando da Engenharia Mecânica para Desenvolvedor.<br>Já tenho um conhecimento intermediário nas linguagens de front web, e estudando sobre as demais para poder me tornar um fullstack.
 
 
 ## 🌐 Socials:
